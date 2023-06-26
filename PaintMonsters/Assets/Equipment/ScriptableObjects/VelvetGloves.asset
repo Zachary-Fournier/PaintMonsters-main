@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e117e1f626a98e54eab14e4ca5814243, type: 3}
+  m_Name: VelvetGloves
+  m_EditorClassIdentifier: 
+  displayName: Velvet Gloves
+  displaySprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  slot: 2
+  healthMod: 2
+  powerMod: 0
+  speedMod: 0
+  luckMod: -2
+  features:
+  - {fileID: 11400000, guid: 74eedec34784d104484b0c3cce833e71, type: 2}

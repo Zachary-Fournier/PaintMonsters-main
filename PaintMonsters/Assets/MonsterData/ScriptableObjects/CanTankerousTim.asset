@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1da601ce06245f845bb257617f4fe183, type: 3}
+  m_Name: CanTankerousTim
+  m_EditorClassIdentifier: 
+  standingSprite: {fileID: 21300000, guid: 10c3830101f91e44791c7a2afe4908d2, type: 3}
+  equipment:
+  - {fileID: 11400000, guid: 0babfc5687f2d4b4ba0f4c07911f37c8, type: 2}
+  - {fileID: 11400000, guid: e701560d7a11c03458a3027cc0185485, type: 2}
+  - {fileID: 11400000, guid: 246a3c90d71bb46488c096d3aa5a8219, type: 2}
+  - {fileID: 11400000, guid: 0a43ca4ea9827ba4fb18af1239cf3371, type: 2}

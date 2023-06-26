@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e117e1f626a98e54eab14e4ca5814243, type: 3}
+  m_Name: BigIronMan
+  m_EditorClassIdentifier: 
+  displayName: Big Iron Man
+  displaySprite: {fileID: 21300000, guid: f7cef69f793a99243a0f216d7ba1646b, type: 3}
+  slot: 3
+  healthMod: -2
+  powerMod: 0
+  speedMod: 0
+  luckMod: 0
+  features:
+  - {fileID: 11400000, guid: 019549afc98c8cb4aa0f802786b7bfa5, type: 2}

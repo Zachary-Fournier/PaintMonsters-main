@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1da601ce06245f845bb257617f4fe183, type: 3}
+  m_Name: Meowdy
+  m_EditorClassIdentifier: 
+  standingSprite: {fileID: 21300000, guid: f22a4367933cbfe46922463afc65f78b, type: 3}
+  equipment:
+  - {fileID: 11400000, guid: 8fe09c7d525b0314697f639166d608d4, type: 2}
+  - {fileID: 11400000, guid: 12e9920d722fc2247b4744a6bd8263ec, type: 2}
+  - {fileID: 11400000, guid: 7489660307ade31428590129cd8b9bc7, type: 2}
+  - {fileID: 11400000, guid: 0a43ca4ea9827ba4fb18af1239cf3371, type: 2}

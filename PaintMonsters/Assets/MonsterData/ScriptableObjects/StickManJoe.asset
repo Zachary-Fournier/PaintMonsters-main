@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1da601ce06245f845bb257617f4fe183, type: 3}
+  m_Name: StickManJoe
+  m_EditorClassIdentifier: 
+  standingSprite: {fileID: 21300000, guid: 70b56fcea5e31914aa32f025fd9e43b7, type: 3}
+  equipment:
+  - {fileID: 11400000, guid: 8500636b5677ddf46aa6669f74340e71, type: 2}
+  - {fileID: 11400000, guid: 1b8662c454872414d985c926838e8fb9, type: 2}
+  - {fileID: 11400000, guid: 1a6bfade718bf5646a57ec80830d148c, type: 2}
+  - {fileID: 11400000, guid: 84d090bb2aea40d4ab59d32ca28d6eaa, type: 2}
+  - {fileID: 11400000, guid: 3637e85ecded5fa4c8d298f661d80c34, type: 2}
+  - {fileID: 11400000, guid: 3637e85ecded5fa4c8d298f661d80c34, type: 2}
